@@ -27,22 +27,3 @@ Licensed under [Creative Commons Attribution 4.0](http://creativecommons.org/lic
 | Generic Modern Chair | [¡Jacques](https://sketchfab.com/iJacques) | [Sketchfab](https://sketchfab.com/3d-models/generic-modern-chair-a3de0188b33d4994ab278c1a7e1a38e9) | `generic_modern_chair.glb` |
 | Industrial Diamond Pendant Light | [Blizzy](https://sketchfab.com/jeffbas) | [Sketchfab](https://sketchfab.com/3d-models/industrial-diamond-pendant-light-f011347c01e647f4acfa1bf42e44716d) | `industrial_diamond_pendant_light.glb` |
 | wall lamp | [Black Snow](https://sketchfab.com/BlackSnow02) | [Sketchfab](https://sketchfab.com/3d-models/wall-lamp-e1d7c30cf46f4ac69f4b868f0b1b5561) | `wall_lamp.glb` |
-
-### Bar model (bottles, stools, counter)
-
-| Model | Author | Source | License | File |
-|---|---|---|---|---|
-| TODO: title | TODO: author | TODO: link | TODO | `BartendingVR/Assets/3D models/bar/temp_export/temp_export.dae` (SketchUp export; used by the prefabs in `Prefabs/Bottles/`, `ID5225`, `instance_264`, `sgabello`) |
-
-### Textures (ambientCG, CC0)
-
-PBR textures (albedo, normal, roughness/metallic) from [ambientCG](https://ambientcg.com), released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (public domain).
-
-| Texture | Source | Used for |
-|---|---|---|
-| TODO | https://ambientcg.com/view?id=TODO | TODO |
-
-### Unity packages
-
-- Unity glTFast (`com.unity.cloud.gltfast`), used to import the `.glb` models.
-- Unity ProBuilder (`com.unity.probuilder`), used for the walls and bar counter blockout.
